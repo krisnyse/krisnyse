@@ -1,1 +1,6 @@
-init
+-link til guide
+-oppsett mqtt
+-oppsett riemann
+-oppsett utility meter
+-oppsett energy dash
+
