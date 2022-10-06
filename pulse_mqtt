@@ -1,6 +1,10 @@
 -link til guide
 -oppsett mqtt
+  -legg inn mqtt addon
+  -opprett mqtt bruker
 -oppsett riemann
+  - "left" og "kilo"
 -oppsett utility meter
+  - time, dag, mnd
 -oppsett energy dash
 
